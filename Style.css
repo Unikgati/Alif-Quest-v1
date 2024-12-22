@@ -62,7 +62,7 @@ body {
 @media (max-width: 768px) {
     .nav-links {
         /* flex-direction: column; */
-        gap: 0.5rem;
+        gap: 0.6rem;
     }
 
     /* .header {
